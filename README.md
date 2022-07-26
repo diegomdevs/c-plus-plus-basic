@@ -1,2 +1,3 @@
-# c-plus-plus-basic
+# C++ basic course
+
 Learning C++ basics
